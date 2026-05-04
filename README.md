@@ -1,6 +1,6 @@
-Deep Learning Theory: In Pursuit of the Unexplainable
+Deep Learning Theory: In Pursuit of the Unexplainable 
 
-In recent years, we have seen enormous progress in deep learning, but our theoretical understanding of why it works so well is still limited. This repository is dedicated to exploring the theory behind deep learning, with a focus on reproducing and understanding results from theoretical deep learning papers. The ultimate goal is to gain a deeper understanding of the existing theory, generate new insights and contribute to the field.
+This repository is my humble attempt to embark on theoretical research in deep learning. Why is that interesting to me? I was looking for a project that spans many different areas of mathematics. A project where I could not only strengthen my mathematical skills but also explore connections between different mathematical fields. A project with a plethora of unanswered questions. I believe deep learning theory is an excellent candidate. In this repository, I try to reproduce results from papers exploring various theoretical aspects. The goal is to gain new insights, develop a better understanding of open problems and ultimately tackle them. Let's go!!!
 
 Inspiration sources:
 - [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
